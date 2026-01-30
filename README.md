@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm from Los Angeles, CA<br><br>- 📚 I'm currently studying at Trinity College Dublin<br>- ⚡ I enjoy puzzle solving both in programming and in games</p>
+<p align="left">I'm from Los Angeles, CA<br><br>- 📚 I'm currently studying at Trinity College Dublin<br>- ⚡ I enjoy puzzle solving in both code and games<br>- 🍴 When I'm not coding, I'm cooking</p>
 
 ###
 
@@ -32,9 +32,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" height="40"/>
   <img width="12" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40"/>
   <img width="12" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
